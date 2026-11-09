@@ -33,6 +33,7 @@ for p in p_list:
     plt.title(f'Binomial Distribution (p={p:.3f})')
     plt.xlabel('Number of Successes (x)')
     plt.ylabel('Probability')
-    plt.legend()
-    plt.grid()
+
     plt.show()
+
+    #오픈소스SW 조별과제 실습
